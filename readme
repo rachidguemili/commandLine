@@ -1,0 +1,11 @@
+
+pour creer repository by command line .
+il faut pour cela se postionner sur le repertoire des fichiers a telecharger dans un terminal
+1 on initialize avec la commande git init
+2 on ajoute les fichiers git add .
+3 ensuite git status
+4 on cree notre premier commitment("maj") git commit -m "premier"
+5 puis on remote le repository entre adresse original et celle du local git remote add origin 'https....'
+6 git push -u origin master 
+7 login et passwd
+8 les fichiers locaux sont alors telecharges sur le repository distant .
